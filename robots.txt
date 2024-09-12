@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orkpland.github.io/sitemap.html.gz
+Sitemap: https://orkpland.github.io/app/sitemap.html.gz
+Sitemap: https://orkpland.github.io/assets/sitemap.html.gz
+Sitemap: https://orkpland.github.io/css/sitemap.html.gz
+Sitemap: https://orkpland.github.io/includes/sitemap.html.gz
+Sitemap: https://orkpland.github.io/item/sitemap.html.gz
+Sitemap: https://orkpland.github.io/src/sitemap.html.gz
